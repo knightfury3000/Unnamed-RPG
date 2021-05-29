@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "unnamedrpg:item/mithril_sword"
+  }
+}

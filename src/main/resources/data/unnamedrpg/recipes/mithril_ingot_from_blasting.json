@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "unnamedrpg:mithril_ore"
+  },
+  "result": "unnamedrpg:mithril_ingot",
+  "experience": 10.0,
+  "cookingtime": 60
+}

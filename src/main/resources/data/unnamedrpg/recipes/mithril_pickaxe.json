@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    " i ",
+    " i "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "unnamedrpg:mithril_ingot"
+    },
+    "i":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "unnamedrpg:mithril_block"
+  }
+}

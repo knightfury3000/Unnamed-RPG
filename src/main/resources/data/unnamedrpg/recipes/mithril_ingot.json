@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    { "item": "unnamedrpg:mithril_block"  }
+  ],
+  "result":
+  {
+    "item": "unnamedrpg:mithril_ingot",
+    "count": 9
+  }
+}

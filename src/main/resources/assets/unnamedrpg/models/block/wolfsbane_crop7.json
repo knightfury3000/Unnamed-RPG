@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "unnamedrpg:block/wolfsbane_crop_stage7"
+  }
+}

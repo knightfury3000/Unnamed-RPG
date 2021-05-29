@@ -1,0 +1,23 @@
+{
+  "item.unnamedrpg.chimera_horn": "Chimera Horn",
+  "item.unnamedrpg.mithril_ingot": "Mithril Ingot",
+  "item.unnamedrpg.raw_chimera_meat": "Raw Chimera Meat",
+
+  "item.unnamedrpg.mithril_shovel": "Mithril Shovel",
+  "item.unnamedrpg.mithril_sword": "Mithril Sword",
+  "item.unnamedrpg.mithril_axe": "Mithril Axe",
+  "item.unnamedrpg.mithril_hoe": "Mithril Hoe",
+  "item.unnamedrpg.mithril_pickaxe": "Mithril Pickaxe",
+
+  "item.unnamedrpg.mithril_helmet": "Mithril Helmet",
+  "item.unnamedrpg.mithril_chestplate": "Mithril Chestplate",
+  "item.unnamedrpg.mithril_leggings": "Mithril Leggings",
+  "item.unnamedrpg.mithril_boots": "Mithril Boots",
+
+  "item.unnamedrpg.wolfsbane_crop": "Wolfsbane Seeds",
+
+  "block.unnamedrpg.mithril_block": "Mithril Block",
+  "block.unnamedrpg.mithril_ore": "Mithril Ore",
+
+  "itemGroup.unnamedRpgTab": "Unnamed RPG"
+}
